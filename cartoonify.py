@@ -1,4 +1,4 @@
-###Joel van der Boom 209668862 UN:joelvdb
+###Joel van der Boom
 ###ex5
 
 import copy, math
